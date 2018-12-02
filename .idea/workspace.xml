@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6d9de57-86e3-4d6c-91f7-b6c97ce33a35" name="Default" comment="" />
+    <list default="true" id="a6d9de57-86e3-4d6c-91f7-b6c97ce33a35" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/challenges/30-data-types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/find-second-maximum-number-in-a-list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finding-the-percentage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-comprehensions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nested_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py-if-else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-arithmetic-operators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-division.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-print.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-tuples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/write-a-function_is-leap.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,89 +39,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="python-division.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-division.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="python-loops.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-loops.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="write-a-function_is-leap.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/write-a-function_is-leap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="python-print.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-print.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list-comprehensions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/list-comprehensions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="find-second-maximum-number-in-a-list.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/find-second-maximum-number-in-a-list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="30-data-types.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenges/30-data-types.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="python-tuples.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-tuples.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="finding-the-percentage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/finding-the-percentage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="nested_list.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nested_list.py">
+        <entry file="file://$PROJECT_DIR$/PYTHON/nested_list.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -168,6 +100,11 @@
             <path>
               <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="PYTHON" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -586,6 +523,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nested_list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PYTHON/list-comprehensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PYTHON/nested_list.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
